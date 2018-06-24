@@ -1,0 +1,8 @@
+<component name="libraryTable">
+  <library name="socket.io.js" type="javaScript">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/public/socket.io/socket.io.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
